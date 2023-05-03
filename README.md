@@ -7,6 +7,8 @@ Samples of current and previous data science and data analysis projects
 - Ran descriptive statistics on salary information by team and player position
 - Created multiple linear regression models predicting salary, compared models for significance and best fit, and generated visualizations of the best model with predictor and outcome graphs. 
 
+<img width="881" alt="Screen Shot 2023-05-03 at 11 04 59 AM" src="https://user-images.githubusercontent.com/119249664/236027189-3d742f4a-bed7-4409-b8c4-a94a540a5f81.png">
+
 ### [R: Analysis of 2019 COVID data](https://spmcdonald1997.github.io/R_Project/)
 - Analyzed 2019 COVID-19 infection information for death rate by country
 - Cleaned data to account for missing values and values stored incorrectly 
