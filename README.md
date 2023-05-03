@@ -1,6 +1,12 @@
 # Sarah_McDonald_Portfolio
 Samples of current and previous data science and data analysis projects
 
+### [R: Analysis and Modeling of NHL Player Statistics and Salary](https://spmcdonald1997.github.io/NHL/)
+- Imported, cleaned, and analyzed NHL individual player statistics for the 2016-2017 season
+- The goal of this project was to create a model using statistics as predictors for player salary
+- Ran descriptive statistics on salary information by team and player position
+- Created multiple linear regression models predicting salary, compared models for significance and best fit, and generated visualizations of the best model with predictor and outcome graphs. 
+
 ### [R: Analysis of 2019 COVID data](https://spmcdonald1997.github.io/R_Project/)
 - Analyzed 2019 COVID-19 infection information for death rate by country
 - Cleaned data to account for missing values and values stored incorrectly 
