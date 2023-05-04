@@ -1,9 +1,12 @@
+!(https://user-images.githubusercontent.com/119249664/236076524-b6dd59b2-2445-4005-b65b-57c0a891e2ed.jpeg)# Sarah McDonald Data Analyst Portfolio
+
+## About me:
+I graduated in 2019 with a degree in Biochemistry and spent my undergraduate and post graduate years working in research and healthcare before enrolling in Medical School. Experiences on the patient and provider side of medicine during the COVID-19 pandemic fostered my interest in the impact of data on business, health, and society. This inspired me to retrain as a data analyst, and now as a Graduate Student in Data Science, I am excited to blend my previous experiences as a researcher and healthcare worker with my skillset in data processing to provide valuable insights as a data analyst. 
 
 
-# Sarah_McDonald_Portfolio
-Samples of current and previous data science and data analysis projects
+The following are samples of current and previous data science and data analysis projects. 
 
-### [R: Analysis and Modeling of NHL Player Statistics and Salary](https://spmcdonald1997.github.io/NHL/)
+### [R: Analysis of NHL Player Statistics to Create Predictive Model for Player Salary](https://spmcdonald1997.github.io/NHL/)
 - Imported, cleaned, and analyzed NHL individual player statistics for the 2016-2017 season
 - The goal of this project was to create a model using statistics as predictors for player salary
 - Ran descriptive statistics on salary information by team and player position
