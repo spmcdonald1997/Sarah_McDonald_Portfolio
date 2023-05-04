@@ -1,5 +1,5 @@
 
-# Sarah McDonald Data Analyst Portfolio 
+# Sarah McDonald Data Analyst Portfolio <img width="193" alt="Screen Shot 2023-05-03 at 5 25 22 PM" src="https://user-images.githubusercontent.com/119249664/236078853-770c5225-7dcf-45e8-92e8-c80b70764342.png">
 
 ## About me:
 I graduated in 2019 with a degree in Biochemistry and spent my undergraduate and post graduate years working in research and healthcare before enrolling in Medical School. Experiences on the patient and provider side of medicine during the COVID-19 pandemic fostered my interest in the impact of data on business, health, and society. This inspired me to retrain as a data analyst, and now as a Graduate Student in Data Science, I am excited to blend my previous experiences as a researcher and healthcare worker with my skillset in data processing to provide valuable insights as a data analyst. 
